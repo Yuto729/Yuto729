@@ -6,21 +6,18 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yuto+Mitomi+%F0%9F%91%8B;Full-Stack+Engineer+%C3%97+AI+Systems;Building+things+that+matter+at+scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yuto+Mitomi+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ## About Me
 
-I'm a software engineer based in Tokyo, studying Precision Engineering at the University of Tokyo (M.S. starting Apr 2026). I build backend systems, AI integrations, and data pipelines — with a focus on reliability, scalability, and business impact.
+A student engineer focused on backend, infrastructure, and LLM — building systems with reliability and business value in mind.
 
-I believe the real value in the AI era lies not in generating code, but in **asking the right questions** — structuring problems, making sound decisions, and taking ownership of outcomes.
+In the AI era, what matters most is always asking **"what do we want to achieve, and why are we building this?"** I care about structuring problems well, making sound decisions, and seeing things through to production.
 
-- 🎓 The University of Tokyo, Precision Engineering
-- 🏢 Currently: Full-Stack Engineer @ Bizgem Inc.
-- 🔬 Research: Gait-based body weight estimation using IMU sensors
-- 🤖 TA @ Matsuo Lab (World Models & Deep Learning)
+- 🎓 The University of Tokyo, Graduate School of Engineering
 - 📍 Tokyo, Japan
 
 ---
@@ -35,11 +32,11 @@ I believe the real value in the AI era lies not in generating code, but in **ask
 
 ## Experience
 
-| Period | Company | Role |
-|--------|---------|------|
-| Feb 2026 – Mar 2026 | **Sansan Inc.** | Full-Stack Engineer |
-| Sep 2025 – Present | **Bizgem Inc.** | Full-Stack Engineer |
-| Dec 2023 – Apr 2025 | **AICE Inc.** | Software Engineer Intern |
+| Period              | Company         | Role                     |
+| ------------------- | --------------- | ------------------------ |
+| Feb 2026 – Mar 2026 | **Sansan Inc.** | Full-Stack Engineer      |
+| Sep 2025 – Present  | **Bizgem Inc.** | Full-Stack Engineer      |
+| Dec 2023 – Apr 2025 | **AICE Inc.**   | Software Engineer Intern |
 
 ---
 
