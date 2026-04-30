@@ -19,6 +19,7 @@ In the AI era, what matters most is always asking **"what do we want to achieve,
 
 - 🎓 The University of Tokyo, Graduate School of Engineering
 - 📍 Tokyo, Japan
+- 🌐 Portfolio: [yuto729.github.io](https://yuto729.github.io)
 
 ---
 
